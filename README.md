@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+## I am Mohab El Gamal 14 years old 
+Student in grade 7 
+---
+🌱 I’m currently learning Programming and technology!
+---
+📫 How to reach me: mohabalkabir4@gmail.com
+---
+⚡ Fun fact: A PRO GAMER :)
+---
+
 
 <!--
 **Light-Fliker/Light-Fliker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
